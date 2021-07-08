@@ -3,3 +3,26 @@
 3)У масиві із числами шукає максимальне значення і створює новий масив чисел, у якому кожне наступне число підноситься в степінь свого порядкового номера (починеється з 1 не з 0)
 4)Масив символів зніюється шляхом зміни крайніх символів(букв) на великі
 
+![image](https://user-images.githubusercontent.com/86930406/124974640-b76a0800-e035-11eb-9448-5d8cf467373b.png)
+
+Результат роботи програми
+
+
+![image](https://user-images.githubusercontent.com/86930406/124974837-f1d3a500-e035-11eb-9e3b-4b5266e15abe.png)
+
+git clone мого репозиторію
+
+![image](https://user-images.githubusercontent.com/86930406/124974903-0a43bf80-e036-11eb-9e2d-c80d0352f457.png)
+
+Підключення та визначення гілки на гіт хабі
+
+![image](https://user-images.githubusercontent.com/86930406/124975019-34957d00-e036-11eb-97d4-c1b1cbd727a6.png)
+
+Додавання файлів та перевірка статусу передавання
+
+
+![image](https://user-images.githubusercontent.com/86930406/124975055-3f501200-e036-11eb-8942-3213cf5e77d6.png)
+
+Git commit посилання і git push
+
+
