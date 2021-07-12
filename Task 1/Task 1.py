@@ -42,7 +42,11 @@ print("Ваш рядок:", stroka)
 integer_stroka = find_str(stroka, 0)
 print("Рядок із цифрами:\n", integer_stroka)
 string_stroka = find_str(stroka, 1)
-print("Максимальне значення в рядку : \n", max(integer_stroka))
-print("Рядок зі степенем масива чисел\n", Degree(integer_stroka))
+
+if integer_stroka:
+    print( "String is empty")
+    print("Максимальне значення в рядку : \n", max(integer_stroka ))
+    print("Рядок зі степенем масива чисел\n", Degree(integer_stroka))
+
 print("Рядок із символами:\n", string_stroka)
 print("Рядок із великими буквами по краям:\n", BigLetters(string_stroka))
